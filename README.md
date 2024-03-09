@@ -14,7 +14,13 @@
 - 📫 How to reach me **hansfredricafort@gmail.com**
 
 - ⚡ Fun fact **I'm interested in game dev**
+<br clear="both">
 
+<div align="right">
+  <img height="200" src="https://i.pinimg.com/originals/db/8f/55/db8f55c887c712aef900957241fcece6.jpg"  />
+</div>
+
+###
   # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Hans&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hans&theme=radical&hide_border=false)<br/>
